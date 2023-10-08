@@ -1,0 +1,28 @@
+{
+    "id": "78FD889F",
+    "path": "~/Desktop/phd_courses/Basic_R/Basic_R.Rmd",
+    "project_path": "Basic_R.Rmd",
+    "type": "r_markdown",
+    "hash": "1271606358",
+    "contents": "",
+    "dirty": false,
+    "created": 1688786487919.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "137,0",
+        "scrollLine": "135",
+        "rmdVisualMode": "false"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689174108,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689174108580,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "DB552672",
+    "path": "~/Desktop/phd_courses/Basic_R/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "3003553888",
+    "contents": "",
+    "dirty": false,
+    "created": 1688608921120.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "34,50",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1688608918,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1688608918,
+    "read_only": false,
+    "read_only_alternatives": []
+}
